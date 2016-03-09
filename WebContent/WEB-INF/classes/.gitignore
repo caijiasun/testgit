@@ -1,2 +1,2 @@
-#ignore all class
-*.class
+/HelloWorld.class
+/Tools.class
